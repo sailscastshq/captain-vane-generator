@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "description": "Sails generator for Captain Vane to generate factories boilerplate in a Sails application.",
   "main": "index.js",
+  "author": "Kelvin Omereshone<kelvin@sailscasts.com>",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "MIT"
+  "keywords": ["captain-vane", "sails", "generator", "factory", "waterline"]
 }
