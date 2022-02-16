@@ -1,0 +1,12 @@
+{
+  "name": "captain-vane-generator",
+  "version": "0.0.1",
+  "description": "Sails generator for Captain Vane to generate factories boilerplate in a Sails application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
