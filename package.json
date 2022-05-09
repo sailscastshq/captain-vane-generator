@@ -1,6 +1,6 @@
 {
   "name": "captain-vane-generator",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Sails generator for Captain Vane to generate factories boilerplate in a Sails application.",
   "main": "index.js",
   "author": "Kelvin Omereshone<kelvin@sailscasts.com>",
